@@ -1,5 +1,5 @@
 # Frogger
-My version of 1980's Arcade game - FROGGER.
+My version of 1980's Arcade game - FROGGER.  Visual Studio 2019.  
 I am 62 years old and new to programming.  I have been watching a lot of videos on youtube and reading a lot of info on the internet.
 I understand that people are using game engines like xna(somewhat discontinued) and unity but I thought I would give it a shot at
 making my own little 'game engine'. I had peviously made a version of the 11 ball game and actually tried to make some you tube videos
